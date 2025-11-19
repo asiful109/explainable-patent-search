@@ -1,1 +1,1 @@
-# explainable-patent-search
+# Explainable patent prior-art search
