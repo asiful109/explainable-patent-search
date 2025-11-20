@@ -6,6 +6,8 @@ We have publicly shared our data as a Kaggle dataset. To run the code in this re
 
 You can download it from the following link: 
 
+Download the validation index: https://www.kaggle.com/datasets/devinanzelmo/uspto-explainable-ai-validation-index
+
 Save the dataset inside the code folder.
 
 ## Run the code
