@@ -5,9 +5,11 @@
 We have publicly shared our data as a Kaggle dataset. To run the code in this repository, you will need to download the dataset first.
 
 You can download it from the following link: 
-Download the TFIDF cache dataset from here: https://www.kaggle.com/datasets/asiful109/uspto-explainable-ai-tfidf-scores
+Download the TFIDF cache dataset from here: 
+https://www.kaggle.com/datasets/asiful109/uspto-explainable-ai-tfidf-scores
 
-Download the validation index: https://www.kaggle.com/datasets/devinanzelmo/uspto-explainable-ai-validation-index
+Download the validation index: 
+https://www.kaggle.com/datasets/devinanzelmo/uspto-explainable-ai-validation-index
 
 Save the dataset inside the code folder.
 
